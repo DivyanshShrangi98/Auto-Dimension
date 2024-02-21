@@ -1,0 +1,11 @@
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\bin\Debug\AutoDimensioningTool.dll
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\bin\Debug\AutoDimensioningTool.pdb
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\AutoDimensioningTool.csproj.AssemblyReference.cache
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\AutoDimensioningTool.csproj.CoreCompileInputs.cache
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\AutoDimensioningTool.dll
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\AutoDimensioningTool.pdb
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\UI\AutoDimensionUI.g.cs
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\AutoDimensioningTool_MarkupCompile.cache
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\AutoDimensioningTool_MarkupCompile.lref
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\UI\AutoDimensionUI.baml
+C:\Users\hii\source\repos\AutoDimensioningTool\AutoDimensioningTool\obj\Debug\AutoDimensioningTool.g.resources
